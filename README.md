@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Frimpong04
 - 👀 I’m interested in full stack software development
 - 🌱 I’m currently learning JavaScript and python
-- 💞️ I’m looking to collaborate on building a clinic management software
+- 💞️ I’m looking to collaborate on building a enterprise apps
 - 📫 How to reach me executivekfb27@gmail.com
 
 <!---
